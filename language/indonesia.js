@@ -1713,7 +1713,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ My Parents
 │○ Fatih A.
 │○ Ferdi
-│○ DikaArdnt
+│○ Dika And Disti
 │○ Mhankbarbar
 │○ Nurutomo
 │○ Rashid
@@ -1766,14 +1766,13 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : https://github.com/disti-ayu
+Recode : https://instagram.com/dikanjaaay 
 `
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE 」 -------*
-
+*-------「 DONATE 」 ---
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
