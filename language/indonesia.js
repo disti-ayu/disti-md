@@ -2432,7 +2432,7 @@ exports.tqto = () =>{
 │○ My Parents
 │○ Fatih A.
 │○ Ferdi
-│○ DikaArdnt
+│○ Dika And Disti
 │○ Mhankbarbar
 │○ Nurutomo
 │○ Rashid
